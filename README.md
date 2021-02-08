@@ -1,16 +1,28 @@
-### Hi there 👋
+# Oh!, I didn't see you. Let me introduce myself :cowboy_hat_face:
+My name is ***Sergio Gutierrez***, but you can call me Seth, Sergio, or even _Seezly_ if you want it to. I'm an attempt of ***designer*** and ***front-end developer*** (__soon an attempt of full-stack!__). I like to *solve problems*, find *new challenges*, *think big* and, *eat pizza*.
 
-<!--
-**Seezly/Seezly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my free time, I like to either think about *what kind of project I will do* or *design* the project itself or *code* it once for all!
 
-Here are some ideas to get you started:
+Technologies I use the most:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS (*SCSS*)
+- JavaScript
+- MySQL
+
+I also have knowlegde in:
+
+- Bootstrap
+- Materialize CSS
+- JQuery
+- Python ~~(Just the basics)~~
+- PHP ~~(Just the basics)~~
+
+---
+
+## You want to get in touch with me?
+Great!, I ***love*** knowing new people that love code the way I do.
+
+You can contact me *either* by [mail](sergiogutierrez0611@gmail.com) or my *social media* accounts below!
+
+![GitHub followers](https://img.shields.io/github/followers/Seezly?label=Follow%20me%20on%20GitHub%21&style=for-the-badge&color=lightgray&logo=github)  ![Twitter Follow](https://img.shields.io/twitter/follow/by_seezly?label=Follow%20me%20on%20twitter%21&style=for-the-badge&color=blue&logo=twitter)
