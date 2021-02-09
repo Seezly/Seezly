@@ -9,12 +9,13 @@ Technologies I use the most 💖:
 - CSS (*SCSS*)
 - JavaScript
 - MySQL
+- Git
 
 I also have knowlegde in ❤️:
 
 - Bootstrap
 - Materialize CSS
-- JQuery
+- jQuery
 - Python ~~(Just the basics)~~
 - PHP ~~(Just the basics)~~
 
