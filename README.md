@@ -19,24 +19,20 @@ I also have knowlegde in ❤️:
 - Python ~~(Just the basics)~~
 - PHP ~~(Just the basics)~~
 
-And I'd like to learn these 💘:
+And I'm learning these 💘:
 
 - React
-- Redux
-- Next.js
-- Angular
-- Vue.js
 - Node.js
 - MongoDB
-- PostgreSQL
-- Express.js
 
 ---
 
 ## Do you want to get in touch with me? 🤙
 Great!, I ***love*** knowing new people that love code the way I do 😊.
 
-You can contact me *either* by [mail](sergiogutierrez0611@gmail.com) or my *social media* accounts below!
+You can contact me *either* by [email](sergiogutierrez0611@gmail.com) or my *social media* accounts below!
+
+Check my [personal webpage](https://www.sergiogutierrez.ml)!
 
 ![GitHub followers](https://img.shields.io/github/followers/Seezly?label=Follow%20me%20on%20GitHub%21&style=for-the-badge&color=lightgray&logo=github)  ![Twitter Follow](https://img.shields.io/twitter/follow/by_seezly?label=Follow%20me%20on%20twitter%21&style=for-the-badge&color=blue&logo=twitter)
 
