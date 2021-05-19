@@ -8,22 +8,25 @@ Technologies I use the most 💖:
 - HTML
 - CSS (*SCSS*)
 - JavaScript
-- MySQL
+- React
 - Git
 
 I also have knowlegde in ❤️:
 
+- MySQL
 - Bootstrap
 - Materialize CSS
 - jQuery
-- Python ~~(Just the basics)~~
-- PHP ~~(Just the basics)~~
+- Python
+- PHP
+- Webpack
 
 And I'm learning these 💘:
 
-- React
 - Node.js
+- Express
 - MongoDB
+- TypeScript
 
 ---
 
