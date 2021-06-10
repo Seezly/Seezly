@@ -6,12 +6,13 @@ In my free time 🕛, I like to either think about *what kind of project I will 
 Technologies I use the most 💖:
 
 - HTML
-- CSS (*SCSS*)
+- CSS (SCSS)
 - JavaScript
 - React
+- Node.js
 - Git
 
-I also have knowlegde in ❤️:
+I also have knowledge in ❤️:
 
 - MySQL
 - Bootstrap
@@ -19,14 +20,15 @@ I also have knowlegde in ❤️:
 - jQuery
 - Python
 - PHP
+- AWS S3
 - Webpack
-
-And I'm learning these 💘:
-
-- Node.js
+- Typescript
 - Express
+- SocketIO
+
+And I'm currently learning 💘:
+
 - MongoDB
-- TypeScript
 
 ---
 
@@ -37,8 +39,7 @@ You can contact me *either* by [email](sergiogutierrez0611@gmail.com) or my *soc
 
 Check out my [personal webpage](https://www.sergiogutierrez.ml)!
 
-![GitHub followers](https://img.shields.io/github/followers/Seezly?label=Follow%20me%20on%20GitHub%21&style=for-the-badge&color=lightgray&logo=github)  ![Twitter Follow](https://img.shields.io/twitter/follow/by_seezly?label=Follow%20me%20on%20twitter%21&style=for-the-badge&color=blue&logo=twitter)
-
+![GitHub followers](https://img.shields.io/github/followers/Seezly?label=Follow%20me%20on%20GitHub%21&style=for-the-badge&color=lightgray&logo=github)
 ---
 
 ### Want to support me? ✌️
