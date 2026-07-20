@@ -19,4 +19,4 @@ Great! I ***love*** knowing new people who love to code the way I do 😊. I'm l
 
 You can reach me by [email](sergiogutierrez0611@gmail.com) or [my LinkedIn](https://linkedin.com/sergio-m-gutierrez-l/).
 
-If you want to take a peek, [my personal website](https://sgutierrez.is-a.dev/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_direct)
+If you want to take a peek, [my personal website](https://sgutierrez.is-a.dev/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_direct).
